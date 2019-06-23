@@ -9,6 +9,9 @@ namespace Exercise_3
             double inputA;
             double y = 0;
 
+            Console.WriteLine("Задание 3:");
+            Console.WriteLine("Дано действительное число a. Для функций f(x), графики которых представлены на рисунке, вычислить f(a).\n");
+
             while (true)
             {
                 Console.WriteLine("Введите число:");
